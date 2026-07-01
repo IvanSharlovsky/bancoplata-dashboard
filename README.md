@@ -17,7 +17,7 @@ Interactive dashboard analyzing software delivery performance and engineering op
 - DORA framework metrics
 
 ## PDF
-![Dashboard Overview]([Engineering Delivery Analytics Dashboard.pdf](Engineering%20Delivery%20Analytics%20Dashboard.pdf))
+![Dashboard Overview](Engineering%20Delivery%20Analytics%20Dashboard.pdf)
 
 ## Contact
 📧 sharlovskii.ia@phystech.edu  
